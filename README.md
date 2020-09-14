@@ -55,7 +55,7 @@ Project Organization
 --------
 
 
-The Goal of the projects was to 
+The Goal of the project was to 
 - Understand the best practices involved in the Data analysis of COVID Data
 - Various measuring variables such as Doubling rate and doubling Time for all the countries were implemeted
 - SIR Model simulation for all the countries were generated and analyzed
