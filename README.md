@@ -54,4 +54,19 @@ Project Organization
 
 --------
 
+
+The Goal of the projects was to 
+- Understand the best practices involved in the Data analysis of COVID Data
+- Various measuring variables such as Doubling rate and doubling Time for all the countries were implemeted
+- SIR Model simulation for all the countries were generated and analyzed
+
+The Data Analysis Steps as per CRISP-DM industry standard involves 
+- Business Understanding
+- Data Understanding
+- Data Preparation
+- Modelling 
+- Deployment
+
+
+
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
